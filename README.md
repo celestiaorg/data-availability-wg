@@ -24,7 +24,7 @@ Discussion of interfaces and end user APIs is out of scope for DA working group.
 
 [Our Charter](./charter.md)
 
-[Meeting Notes](./meeting/notes.md)
+[Meeting Notes](./meeting-notes/history.md)
 
 [Events Calendar](https://calendar.google.com/calendar/embed?src=c_c50783db0e17918bf41d317de6a490cd149f548709c09db4b283a4cdaa1bc5a6%40group.calendar.google.com)
 
